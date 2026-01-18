@@ -1,1 +1,1 @@
-<img src="https://i.pinimg.com/736x/aa/8f/9e/aa8f9eb399ca3b5e8ba46578e433b3b2.jpg" width="400" alt="Крутая GIF"/>
+<img src="https://i.pinimg.com/originals/e5/44/f4/e544f43172bd80ed63d6018abc8f8186.gif" width="400" alt="Крутая GIF"/>

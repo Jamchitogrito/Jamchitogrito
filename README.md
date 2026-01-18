@@ -1,1 +1,1 @@
-<img src="dante-dmc.gif" width="800" alt="Крутая GIF"/>
+<img src="dante-dmc.gif" width="820" alt="Крутая GIF"/>
